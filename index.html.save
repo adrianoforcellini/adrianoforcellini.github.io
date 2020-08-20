@@ -2,16 +2,16 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>PORTIFÓLIO WEB - TRYBE 3-1 - ADRIANO TURMA 07</title>
+        <title>HTML links</title>
     </head>
     <body>
     
         <h1>Adriano Forcellini Pedretti </h1>
 	<li><a href="#oleola"> Descrição </a><li>        
         <li><a href="#photo"> Foto </a></li>
-	<li><a href="#blog">Blog Predileto</a></li>
-	<li><a href="#vlog">Vlog Predileto</a></li>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
+	<li><a href="#link">Blog</a></li>	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 
 
 	 <p><h2 id="oleola">Descrição</h2>Adriano é nascido em São Paulo-SP, mas mora dês dos seis anos em Pirassununga- SP. Adriano é um jovem dedicado, simpático  e muito gentil além de absolutamente modesto.<br>
@@ -19,15 +19,14 @@
  	Seu domínio sobre sua mente foge ao padrão da sociecidade; <b><i>Excelsior</b></i> é seu lema!!!! <br>
  	-"É relativamente fácil convencer alguém de algo.<br>
 	 O difícil é convencer á sí mesmo, consciente do que o está fazendo, mas ainda assim fazendo-o de forma tão eloquente que passa á acreditar neste algo.	
- 	<br> Se convencer de que a situação aparentemente ruim é na verdade boa por algum motivo, e que também é uma das maiores oportunidades de sua vida. Esse é o segredo!!"   </p>
+ 	<br> Se convencer de que a situação instantaneamente ruim é na verdade boa por algum motivo, e que também é uma das maiores oportunidades de sua vida. Esse é o segredo!!"   </p>
     
-        <a></a>
+bv         <a></a>
         <p>
-       <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEOnFEe8ZdVew/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=Cy23XEExMbiFflsTvRxI5YFmHrkXzr-dIJviUvdiOt0"target="_blank" width="400">
+       <img src="https://media-exp1.licdn.com/dms/image/C4D03AQEOnFEe8ZdVew/profile-displayphoto-shrink_200_200/0?e=1603324800&v=beta&t=Cy23XEExMbiFflsTvRxI5YFmHrkXzr-dIJviUvdiOt0" width="300">
        </a> <br><a name="photo">Adriano - TRYBER.</a>
 	<br><br><br><br>       
-	<a name="vlog"><a href="https://www.youtube.com/user/rafa18sp"target="_blank">Vlog Predileto</a><br>
-	<a name="link"> <a href="https://github.com/adrianoforcellini"target="_blank"> Blog Predileto </a></a>
+	<a name="link"> <a href="https://github.com/adrianoforcellini.git>BLOG</a></a>
 	 </p>
         
     </body>
