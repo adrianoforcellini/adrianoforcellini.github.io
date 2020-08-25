@@ -1,4 +1,4 @@
-body {
+    body {
     font-family: cursive;
 }
 
@@ -15,6 +15,10 @@ body {
     background-repeat: repeat-y;
     background-position: center center;
     background-color: rgba(0, 26, 118, 0.4);
+}
+
+.img {
+    border: 4px ridge rgb(48, 71, 210)
 }
 
 A:link {
@@ -35,4 +39,3 @@ A:active {
 A:hover {
     text-decoration: underline;
     color: #8B0000;
-}
