@@ -40,8 +40,8 @@ body {
 .nomephoto {
     font-size: 2em;
     margin-left: 1000px;
-    z-index: 2;
-    margin-top: -120px;
+    z-index: 3;
+    margin-top: -110px;
 }
 
 .img {
@@ -52,14 +52,25 @@ body {
     position: absolute;
     top: 400px;
     left: 895px;
-    z-index: 3;
+    z-index: 2;
+}
+
+.leal:hover {
+    margin-left: 100px;
+    font-size: 70px
 }
 
 .list {
     font-size: 2.5em;
     color: rgba(100, 100, 100, 0.9);
     margin-left: 200px;
-    margin-top: 100px
+    margin-top: 100px;
+    font-weight: bolder;
+    text-decoration: none
+}
+
+.list:hover {
+    text-shadow: 0 0 4px #fff, 0 0 4px #ff0;
 }
 
 A:link {
