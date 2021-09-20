@@ -1,0 +1,60 @@
+.Home {
+  background-image: url('../../imagens/bks/imagens2.jpg');
+  background-size: cover;
+  text-align: center;
+}
+
+.Home-logo {
+  border-radius: 10000px;
+  height: 40vmin;
+}
+
+p {
+  margin: 15px;
+}
+
+
+.Home-section {
+  background-color: rgba(0, 0, 0, 0.829);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .Home-logo-2 {
+    height: 43vmin;
+    border-radius: 10000px;
+    animation: App-logo-spin infinite 1s linear;
+  }
+
+  .Home-logo-3 {
+    height: 48vmin;
+    border-radius: 10000px;
+    animation: App-logo-spin infinite 0.5s linear;
+  }
+  .Home-logo-4 {
+    height: 55vmin;
+    border-radius: 10000px;
+    animation: App-logo-spin infinite 0.01s linear;
+  }
+  .Home-logo-5 {
+    height: 60vmin;
+    border-radius: 10000px;
+    animation: App-logo-spin infinite 0.0001s linear;
+  }
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

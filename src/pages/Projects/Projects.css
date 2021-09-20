@@ -1,0 +1,28 @@
+.Projects {
+  background-image: url('../../imagens/bks/imagens3.jpg');
+  background-size: cover;
+  text-align: center;
+}
+
+p { 
+  margin: 15px;
+}
+
+
+.Projects-section {
+  background-color: rgba(0, 0, 0, 0.829);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.gif-container {
+  margin-left: 5%;
+  background-color: rgb(197, 193, 193);
+  width: 45vw;
+  height: 30vw;
+}
+
