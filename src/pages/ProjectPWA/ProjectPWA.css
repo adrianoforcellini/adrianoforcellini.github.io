@@ -4,10 +4,9 @@
   text-align: center;
 }
 
-p { 
+p {
   margin: 15px;
 }
-
 
 .Projects-section {
   background-color: rgba(0, 0, 0, 0.829);
@@ -17,4 +16,29 @@ p {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+@media only screen and (max-width: 1000px) {
+  .Projects-section {
+    font-size: calc(7px + 2vmin);
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .Projects-section {
+    font-size: calc(5px + 2vmin);
+  }
+}
+
+
+@media only screen and (max-width: 700px) {
+  .Projects-section {
+    font-size: calc(2px + 2vmin);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .Projects-section {
+    font-size: calc(1px + 2vmin);
+  }
 }

@@ -1,5 +1,4 @@
-
-.buttons{
+.buttons {
   background-color: rgba(134, 0, 0, 0);
   border-radius: 30px;
   color: white;
@@ -7,4 +6,28 @@
   height: 50%;
   margin: 5%;
   width: 30%;
+}
+
+@media only screen and (max-width: 1000px) {
+  .buttons {
+    font-size: calc(7px + 2vmin);
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .buttons {
+    font-size: calc(5px + 2vmin);
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .buttons {
+    font-size: calc(2px + 2vmin);
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .buttons {
+    font-size: calc(1px + 2vmin);
+  }
 }
