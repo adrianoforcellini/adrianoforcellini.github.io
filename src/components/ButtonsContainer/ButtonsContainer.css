@@ -1,0 +1,10 @@
+
+.buttons{
+  background-color: rgba(134, 0, 0, 0);
+  border-radius: 30px;
+  color: white;
+  font-size: 20px;
+  height: 50%;
+  margin: 5%;
+  width: 30%;
+}

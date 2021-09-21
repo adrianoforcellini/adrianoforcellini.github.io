@@ -1,7 +1,6 @@
 import iam from "../../imagens/eu.png";
 import "./Home.css";
 import React, { useState } from "react";
-import { createBrowserHistory } from "history";
 import { useHistory } from "react-router";
 
 function Home() {
