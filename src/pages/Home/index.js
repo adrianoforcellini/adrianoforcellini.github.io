@@ -12,7 +12,7 @@ function Home() {
     setTimeout(() => SetPhotoState("Home-logo-3"), 1000);
     setTimeout(() => SetPhotoState("Home-logo-4"), 2000);
     setTimeout(() => SetPhotoState("Home-logo-5"), 3000);
-    setTimeout(() => history.push("/projects"), 4000);
+    setTimeout(() => history.push("/project/pwa"), 4000);
   };
 
   return (

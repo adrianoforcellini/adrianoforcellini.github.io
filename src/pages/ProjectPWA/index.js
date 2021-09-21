@@ -1,16 +1,16 @@
 import React, { useState } from "react";
-import "./Projects.css";
+import "./ProjectPWA.css";
+import ProjectCard from "../../components/ProjectCard";
 
-function Projects() {
+function ProjectPWA() {
 
   return (
     <div className="Projects">
       <section className="Projects-section">
-        <div className="gif-container">
-        </div>
+      <ProjectCard/>
       </section>
     </div>
   );
 }
 
-export default Projects;
+export default ProjectPWA;
