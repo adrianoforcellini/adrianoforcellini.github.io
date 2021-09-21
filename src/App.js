@@ -1,11 +1,5 @@
 import Routes from "./pages/Routes";
 
-const App = () => {
-  return (
-    <div>
-      <Routes />
-    </div>
-  );
-};
+const App = () => <Routes />;
 
 export default App;
