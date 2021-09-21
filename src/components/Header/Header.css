@@ -1,5 +1,8 @@
-.Header{
-  height: 5%;
-  margin-top: 0%;
+.app-header{
+  background-color: rgba(0, 0, 0, 0.671);
+  color: white;
+  font-size: 15px;
+  height: 10%;
+  position: fixed;
   width: 100%;
 }
