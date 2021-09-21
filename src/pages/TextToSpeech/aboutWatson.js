@@ -1,5 +1,5 @@
 const aboutWatson = {
-  title: 'PWA NEWS',
+  title: 'Text To Speech',
   technologies: `React JS , Node JS, Serverless API , DynamoDB , API Watson(IBM)
    , API Language Translator (IBM) e Heroku.`,
   info: `Essa aplicação permite traduzir comentários.
