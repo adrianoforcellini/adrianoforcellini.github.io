@@ -1,26 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0630bc2.chunk.css",
-    "main.js": "/static/js/main.dcd5d948.chunk.js",
-    "main.js.map": "/static/js/main.dcd5d948.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.abf3cd54.js",
-    "runtime-main.js.map": "/static/js/runtime-main.abf3cd54.js.map",
-    "static/js/2.d83c5eea.chunk.js": "/static/js/2.d83c5eea.chunk.js",
-    "static/js/2.d83c5eea.chunk.js.map": "/static/js/2.d83c5eea.chunk.js.map",
-    "static/js/3.c7ece5b7.chunk.js": "/static/js/3.c7ece5b7.chunk.js",
-    "static/js/3.c7ece5b7.chunk.js.map": "/static/js/3.c7ece5b7.chunk.js.map",
+    "main.css": "/static/css/main.79464709.chunk.css",
+    "main.js": "/static/js/main.c1eb3a90.chunk.js",
+    "main.js.map": "/static/js/main.c1eb3a90.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.79af8777.js",
+    "runtime-main.js.map": "/static/js/runtime-main.79af8777.js.map",
+    "static/js/2.92655707.chunk.js": "/static/js/2.92655707.chunk.js",
+    "static/js/2.92655707.chunk.js.map": "/static/js/2.92655707.chunk.js.map",
+    "static/js/3.ae479768.chunk.js": "/static/js/3.ae479768.chunk.js",
+    "static/js/3.ae479768.chunk.js.map": "/static/js/3.ae479768.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.d0630bc2.chunk.css.map": "/static/css/main.d0630bc2.chunk.css.map",
-    "static/js/2.d83c5eea.chunk.js.LICENSE.txt": "/static/js/2.d83c5eea.chunk.js.LICENSE.txt",
+    "static/css/main.79464709.chunk.css.map": "/static/css/main.79464709.chunk.css.map",
+    "static/js/2.92655707.chunk.js.LICENSE.txt": "/static/js/2.92655707.chunk.js.LICENSE.txt",
     "static/media/PWA.f40821b4.gif": "/static/media/PWA.f40821b4.gif",
     "static/media/eu.3a39428f.png": "/static/media/eu.3a39428f.png",
+    "static/media/googleAPI.d99f19c0.gif": "/static/media/googleAPI.d99f19c0.gif",
+    "static/media/MapsAPI.css": "/static/media/imagens.b65374b8.jpg",
     "static/media/Home.css": "/static/media/imagens2.9046c19b.jpg",
-    "static/media/ProjectPWA.css": "/static/media/imagens3.453a82af.jpg"
+    "static/media/ProjectPWA.css": "/static/media/imagens3.453a82af.jpg",
+    "static/media/textToSpeech.779e0dcf.gif": "/static/media/textToSpeech.779e0dcf.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.abf3cd54.js",
-    "static/js/2.d83c5eea.chunk.js",
-    "static/css/main.d0630bc2.chunk.css",
-    "static/js/main.dcd5d948.chunk.js"
+    "static/js/runtime-main.79af8777.js",
+    "static/js/2.92655707.chunk.js",
+    "static/css/main.79464709.chunk.css",
+    "static/js/main.c1eb3a90.chunk.js"
   ]
 }
