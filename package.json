@@ -1,6 +1,5 @@
 {
   "name": "personal-portfolio",
-  "homepage": "http://adrianoforcellini.github.io/personal_portofily",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
