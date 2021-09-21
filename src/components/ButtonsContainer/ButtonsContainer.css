@@ -29,5 +29,6 @@
 @media only screen and (max-width: 600px) {
   .buttons {
     font-size: calc(1px + 2vmin);
+    width: 40%;
   }
 }
