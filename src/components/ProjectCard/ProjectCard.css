@@ -6,6 +6,10 @@
   width: 45vw;
 }
 
+.gif{
+  max-width: 100%;
+}
+
 .project-card {
   display: flex;
   flex-direction: row;
